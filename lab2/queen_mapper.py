@@ -152,5 +152,5 @@ def visualize_queens(positions):
 
 
 if __name__ == "__main__":
-    queen_positions = ["a1", "g5", "f7", "b2"]
+    queen_positions = ["a1", "g5", "f7", "b2","e4","d7"]
     visualize_queens(queen_positions)
