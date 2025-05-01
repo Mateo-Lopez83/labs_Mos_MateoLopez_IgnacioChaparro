@@ -1,6 +1,6 @@
-Recurso,Valor de Impacto,Peso,Volumen,Disponibilidad
-Alimentos,50,5,3,12
-Medicinas,100,2,1,15
-Equipos,120,0.3,0.5,40
-Agua,60,6,4,15
-Mantas,40,3,2,20
+recurso,valor_impacto,peso,volumen,disponibilidad
+1,50,5,3,12
+2,100,2,1,15
+3,120,0.3,0.5,40
+4,60,6,4,15
+5,40,3,2,20

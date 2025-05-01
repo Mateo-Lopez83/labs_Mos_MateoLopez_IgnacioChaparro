@@ -1,5 +1,5 @@
-Zona,Distancia,Población,Multiplicador de Impacto
-A,800,50,1.2
-B,1200,70,1.5
-C,1500,100,1.8
-D,900,80,1.4
+zona,distancia,poblacion,multiplicador_impacto
+1,800,50,1.2
+2,1200,70,1.5
+3,1500,100,1.8
+4,900,80,1.4
